@@ -1,6 +1,7 @@
----
-date: "2016-05-05T21:48:51-07:00"
-title: About
----
++++
+title = "About Ship 84"
++++
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+*Ship 84* is a co-ed, non-profit *Sea Scouts BSA* group located in Southport CT. We have been in operation since 1932. Our mission is to create youth leadership and personal development opportunities for 14 to 21 year-olds while teaching seamanship and safe boating skills through challenging and fun-filled programs at sea.
+
+We meet with our youth members weekly 12 months of the year.  In the fall and winter months we focus on studying and learning new skills, in the spring we do hands on boat maintenance and prepare for the boating season and during the summer we put it all together and sail aboard our 40-foot sailboat *The Resolution* to various ports of call in Long Island Sound all the way to Block Island and Martha’s Vineyard.
