@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sea Scouts BSA Ship 84</title>
-    <link>https://www.ship84.com/</link>
+    <link>/</link>
     <description>Recent content on Sea Scouts BSA Ship 84</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
     
-	<atom:link href="https://www.ship84.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>https://www.ship84.com/post/2016-12-30-hello-markdown/</link>
+      <link>/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>https://www.ship84.com/post/2016-12-30-hello-markdown/</guid>
+      <guid>/post/2016-12-30-hello-markdown/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
       <title>About Ship 84</title>
-      <link>https://www.ship84.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ship84.com/about/</guid>
+      <guid>/about/</guid>
       <description>Ship 84 is a co-ed, non-profit Sea Scouts BSA group located in Southport CT. We have been in operation since 1932. Our mission is to create youth leadership and personal development opportunities for 14 to 21 year-olds while teaching seamanship and safe boating skills through challenging and fun-filled programs at sea.
 We meet with our youth members weekly 12 months of the year. In the fall and winter months we focus on studying and learning new skills, in the spring we do hands on boat maintenance and prepare for the boating season and during the summer we put it all together and sail aboard our 40-foot sailboat The Resolution to various ports of call in Long Island Sound all the way to Block Island and Martha’s Vineyard.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://www.ship84.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ship84.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>Contact Us Fill out the form below to contact Skipper Erol Eyikan.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://www.ship84.com/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ship84.com/faq/</guid>
+      <guid>/faq/</guid>
       <description>1. How old do you have to be to join Ship 84? At least 14 years of age or have graduated from the 8th grade.
 2. Can girls join? Yes, the Sea Scouts is ce-ed.
 3. What are the costs?  The registration fee is $100 per year.
@@ -55,11 +55,11 @@ We meet with our youth members weekly 12 months of the year. In the fall and win
     
     <item>
       <title>The Resolution</title>
-      <link>https://www.ship84.com/resolution/</link>
+      <link>/resolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ship84.com/resolution/</guid>
-      <description> The Resolution </description>
+      <guid>/resolution/</guid>
+      <description>The Resolution is a Hinckley Bermuda 40 yawl-type sailboat. Ship 84 is in the process of re-sealing the teak wood and re-painting the deck.</description>
     </item>
     
   </channel>

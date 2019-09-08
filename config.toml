@@ -64,7 +64,8 @@ paginate = 1
     defaultDescription = "Sea Scouts BSA Ship 84 Southport CT"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    #googleMapsApiKey = ""
+    #googleMapsApiKey = {{ getenv "GOOGLEMAPS_API_KEY" }}
+    #googleMapsApiKey = process.env.API_KEY
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
