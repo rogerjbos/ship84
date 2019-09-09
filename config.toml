@@ -34,8 +34,8 @@ paginate = 1
     weight = 3
 
 [[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
+    name = "Forms"
+    url  = "/forms/"
     weight = 5
 
 [[menu.main]]
