@@ -64,7 +64,7 @@ paginate = 1
     defaultDescription = "Sea Scouts BSA Ship 84 Southport CT"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    #googleMapsApiKey = {{ getenv "GOOGLEMAPS_API_KEY" }}
+    #googleMapsApiKey ='testme'
     #googleMapsApiKey = process.env.API_KEY
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
@@ -99,8 +99,8 @@ paginate = 1
         <br>Southport, CT  06890
       </p>
       """
-    latitude = "41.2178645"
-    longitude = "-73.3824359"
+    #latitude = "41.2178645"
+    #longitude = "-73.3824359"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
