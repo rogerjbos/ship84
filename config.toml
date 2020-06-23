@@ -29,12 +29,12 @@ paginate = 1
     weight = 2
 
 [[menu.main]]
-    name = "The Resolution"
+    name = "Vessels"
     url  = "/resolution/"
     weight = 3
 
 [[menu.main]]
-    name = "Forms"
+    name = "Forms / Links"
     url  = "/forms/"
     weight = 5
 
@@ -86,7 +86,7 @@ paginate = 1
     email = "ship84sailing@gmail.com"
 
     about_us = "<p>Leadership and seamanship skills through fun-filled programs at sea.</p>"
-    copyright = "Copyright (c) 2019, Ship 84; all rights reserved."
+    copyright = "Copyright (c) 2019 - 2020, Ship 84; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2019"
@@ -157,7 +157,7 @@ paginate = 1
     subtitle = "Click images to follow link"
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "Ship 84 Blog"
     subtitle = "Ship 84 is a Sea Scouts BSA ship in Southport Connecticut open to boys and girls from 14 to 21 years of age."
 

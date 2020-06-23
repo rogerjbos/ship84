@@ -12,6 +12,12 @@ The Kolga is our newest boat, which was donated to us in 2019.  This will be our
 
 ![](https://www.ship84.com/img/Kolga1.JPG)
 
+![](https://www.ship84.com/img/Kolga2.JPG)
+
+![](https://www.ship84.com/img/Kolga3.JPG)
+
+![](https://www.ship84.com/img/Kolga4.JPG)
+
 The Mako is a small fishing boat.
 
-![](https://www.ship84.com/img/IMG_0478.JPG)
+![](https://www.ship84.com/img/Mako.JPG)
