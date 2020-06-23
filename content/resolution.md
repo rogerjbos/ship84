@@ -8,7 +8,7 @@ The Resolution is a Hinckley Bermuda 40 yawl sailboat.  The Resolution will not 
 
 ![](https://www.ship84.com/img/resolution_1.jpg)
 
-The Kolga is out newest boat, which was donated to us in 2019.  This will be our primary sailboat for the 2020 season.
+The Kolga is our newest boat, which was donated to us in 2019.  This will be our primary sailboat for the 2020 season.
 
 ![](https://www.ship84.com/img/Kolga1.JPEG)
 
