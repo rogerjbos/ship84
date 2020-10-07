@@ -15,7 +15,7 @@ Yes, the Sea Scouts is *co-ed*.
 ## 3. What are the costs?
 
 * The *registration fee* is $135 per year.  
-* There is a one time cost of $40 for the uniform.  
+* There is a one time cost of $40 for the Class B uniform shirt and hat.  
 * Day sails are free to registered members.
 * Overnight trips and long cruises have fees based on the trip destination and duration.
 
