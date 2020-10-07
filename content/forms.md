@@ -12,9 +12,11 @@ keywords = ["permission","waiver","schedule","calendar","Links"]
 
 [Sample Cruise (Block Island 2019)](https://www.ship84.com/2019_Block_Island_Boarding_Manual.docx)
 
+Tutorials / Guides
 
+[Parts of a Sail Boat](https://www.ship84.com/Parts_of_a_Sail_Boat.pdf)
 
-US Coast Guard Navigation Rules
+US Coast Guard Navigation Rules (External Site)
 
 [Inland Navigatino Rules](https://navcen.uscg.gov/pdf/navRules/navrules.pdf)
 
