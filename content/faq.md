@@ -10,12 +10,12 @@ At least *14 years of age* or have graduated from the 8th grade.
 
 ## 2. Can girls join?
 
-Yes, the Sea Scouts is *ce-ed*.
+Yes, the Sea Scouts is *co-ed*.
 
 ## 3. What are the costs?
 
-* The *registration fee* is $100 per year.  
-* There is a one time cost of $75 for the uniform.  
+* The *registration fee* is $135 per year.  
+* There is a one time cost of $40 for the uniform.  
 * Day sails are free to registered members.
 * Overnight trips and long cruises have fees based on the trip destination and duration.
 
@@ -25,11 +25,11 @@ Yes, _Scouts BSA_, _Venturing_, and _Sea Scouts BSA_ are all part of *Boy Scouts
 
 ## 5. When are your regular meeting nights?
 
-We meet on *Monday* nights from *7:30 PM to 9 PM* during non-summer months.
+We meet on *Sunday* afternoons from *4:00 PM to 5:30 PM* during non-summer months.
 
 ## 6. When are the day says?
 
-Day sails usually take place on a *Sundays* from *10 AM to 2 PM* during the summer months.
+Day sails take place on * Saturdays or Sundays* from *10 AM to 2 PM* during the summer months.
 
 ## 7. What kind of skills do you teach?
 
@@ -40,7 +40,7 @@ Day sails usually take place on a *Sundays* from *10 AM to 2 PM* during the summ
 * Boat maintenance and repairs
 * Cruise planning
 * Boat handling
-* Earned leadership through teamwork
+* Leadership through teamwork
 
 ## 8. What kind of events do you participate in?
 
