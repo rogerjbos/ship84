@@ -14,7 +14,7 @@ keywords = ["permission","waiver","schedule","calendar","Links"]
 
 Tutorials / Guides
 
-[Parts of a Sail Boat](https://www.ship84.com/Parts_of_a_Sailboat.pdf)
+[Parts of a Sailboat](https://www.ship84.com/Parts_of_a_Sailboat.pdf)
 
 US Coast Guard Navigation Rules (External Site)
 
