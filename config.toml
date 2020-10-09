@@ -43,11 +43,17 @@ paginate = 1
     identifier = "faq"
     url  = "/faq/"
     weight = 6
+    
+[[menu.main]]
+    name = "Donations"
+    identifier = "donations"
+    url  = "/donations/Donations"
+    weight = 7
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 7
+    weight = 8
 
 # Top bar social links menu
 
