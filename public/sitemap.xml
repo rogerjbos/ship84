@@ -30,11 +30,15 @@
   </url>
   
   <url>
-    <loc>/donations/</loc>
+    <loc>/donation/cancel/</loc>
   </url>
   
   <url>
-    <loc>/donations/donations/</loc>
+    <loc>/donation/</loc>
+  </url>
+  
+  <url>
+    <loc>/donation/donation/</loc>
   </url>
   
   <url>
@@ -50,11 +54,7 @@
   </url>
   
   <url>
-    <loc>/donations/cancel/</loc>
-  </url>
-  
-  <url>
-    <loc>/donations/thanks/</loc>
+    <loc>/donation/thanks/</loc>
   </url>
   
   <url>

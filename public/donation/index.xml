@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donations on Sea Scouts BSA Ship 84</title>
+    <link>/donation/</link>
+    <description>Recent content in Donations on Sea Scouts BSA Ship 84</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/donation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Donation cancelled</title>
+      <link>/donation/cancel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/donation/cancel/</guid>
+      <description>Your donation was cancelled. If this was by mistake, please try again. If you are having technical difficulties, please contact the Skipper of Ship 84.</description>
+    </item>
+    
+    <item>
+      <title>Donations</title>
+      <link>/donation/donation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/donation/donation/</guid>
+      <description>Ship 84 is a co-ed, Sea Scouts BSA ship located in Southport CT. We have been in operation since 1932. We grately appreciate any monetary or in-kind donation you are willing to provide to support our efforts.
+Wishlist
+ Item 1 Item 2  
+For donating items, please us the Contact page to email the Skipper of Ship 84.
+Monetary donations using the above button will go directly to Ship 84 located in Southport, CT.</description>
+    </item>
+    
+    <item>
+      <title>Thank You for your Donation</title>
+      <link>/donation/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/donation/thanks/</guid>
+      <description>Your donation was successful. We grately appreciate your donation. Your donation to Ship 84 may be tax deductible.</description>
+    </item>
+    
+  </channel>
+</rss>

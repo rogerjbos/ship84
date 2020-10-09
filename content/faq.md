@@ -29,7 +29,7 @@ We meet on *Sunday* afternoons from *4:00 PM to 5:30 PM* during non-summer month
 
 ## 6. When are the day says?
 
-Day sails take place on * Saturdays or Sundays* from *10 AM to 2 PM* during the summer months.
+Day sails take place on *Saturdays* or *Sundays* during the summer months.
 
 ## 7. What kind of skills do you teach?
 
@@ -55,4 +55,4 @@ Day sails take place on * Saturdays or Sundays* from *10 AM to 2 PM* during the 
   
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us.
+> In case you haven't found the answer for your question please feel free to [contact](https://www.ship84.com/contact) us.

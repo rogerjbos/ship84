@@ -41,11 +41,20 @@ We meet with our youth members weekly 12 months of the year. In the fall and win
     </item>
     
     <item>
-      <title>Donations</title>
-      <link>/donations/donations/</link>
+      <title>Donation cancelled</title>
+      <link>/donation/cancel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/donations/donations/</guid>
+      <guid>/donation/cancel/</guid>
+      <description>Your donation was cancelled. If this was by mistake, please try again. If you are having technical difficulties, please contact the Skipper of Ship 84.</description>
+    </item>
+    
+    <item>
+      <title>Donations</title>
+      <link>/donation/donation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/donation/donation/</guid>
       <description>Ship 84 is a co-ed, Sea Scouts BSA ship located in Southport CT. We have been in operation since 1932. We grately appreciate any monetary or in-kind donation you are willing to provide to support our efforts.
 Wishlist
  Item 1 Item 2  
@@ -84,22 +93,11 @@ General Information</description>
     
     <item>
       <title>Thank You for your Donation</title>
-      <link>/donations/cancel/</link>
+      <link>/donation/thanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/donations/cancel/</guid>
-      <description>Ship 84 is a co-ed, Sea Scout group located in Southport CT. We have been in operation since 1932. We grately appreciate any monetary or in-kind donation you are willing to provide to support our efforts.
-Donations to Ship 84 may be tax deductible.</description>
-    </item>
-    
-    <item>
-      <title>Thank You for your Donation</title>
-      <link>/donations/thanks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/donations/thanks/</guid>
-      <description>Ship 84 is a co-ed, Sea Scout group located in Southport CT. We have been in operation since 1932. We grately appreciate any monetary or in-kind donation you are willing to provide to support our efforts.
-Donations to Ship 84 may be tax deductible.</description>
+      <guid>/donation/thanks/</guid>
+      <description>Your donation was successful. We grately appreciate your donation. Your donation to Ship 84 may be tax deductible.</description>
     </item>
     
     <item>
