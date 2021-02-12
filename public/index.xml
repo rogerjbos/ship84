@@ -2,59 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sea Scouts BSA Ship 84</title>
-    <link>/</link>
+    <link>https://www.ship84.com/</link>
     <description>Recent content on Sea Scouts BSA Ship 84</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/post/2016-12-30-hello-markdown/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/post/2016-12-30-hello-markdown/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://www.ship84.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Ship 84</title>
-      <link>/about/</link>
+      <link>https://www.ship84.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://www.ship84.com/about/</guid>
       <description>Ship 84 is a co-ed, Sea Scouts BSA ship located in Southport CT. We have been in operation since 1932. Our mission is to create youth leadership and personal development opportunities for 14 to 21 year-olds while teaching seamanship and safe boating skills through challenging and fun-filled programs at sea.
 We meet with our youth members weekly 12 months of the year. In the fall and winter months we focus on studying and learning new skills, in the spring we do hands on boat maintenance and prepare for the boating season and during the summer we put it all together and sail aboard our 40-foot sailboat The Resolution or our 30-foot sailboat Kolga to various ports of call in Long Island Sound all the way to Block Island and Martha’s Vineyard.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://www.ship84.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://www.ship84.com/contact/</guid>
       <description>Contact Us Fill out the form below to contact Skipper Erol Eyikan.</description>
     </item>
     
     <item>
       <title>Donation cancelled</title>
-      <link>/donation/cancel/</link>
+      <link>https://www.ship84.com/donation/cancel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/donation/cancel/</guid>
+      <guid>https://www.ship84.com/donation/cancel/</guid>
       <description>Your donation was cancelled. If this was by mistake, please try again. If you are having technical difficulties, please contact the Skipper of Ship 84.</description>
     </item>
     
     <item>
       <title>Donations</title>
-      <link>/donation/</link>
+      <link>https://www.ship84.com/donation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/donation/</guid>
+      <guid>https://www.ship84.com/donation/</guid>
       <description>Ship 84 is a co-ed, Sea Scouts BSA ship located in Southport CT. We have been in operation since 1932. We grately appreciate any monetary or in-kind donation you are willing to provide to support our efforts.
 Wishlist
  Item 1 Item 2  
@@ -64,10 +49,10 @@ Monetary donations using the above button will go directly to Ship 84 located in
     
     <item>
       <title>FAQ</title>
-      <link>/faq/</link>
+      <link>https://www.ship84.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faq/</guid>
+      <guid>https://www.ship84.com/faq/</guid>
       <description>1. How old do you have to be to join Ship 84? At least 14 years of age or have graduated from the 8th grade.
 2. Can girls join? Yes, the Sea Scouts is co-ed.
 3. What are the costs?  The registration fee is $135 per year. There is a one time cost of $40 for the Class B uniform shirt and hat. Day sails are free to registered members.</description>
@@ -75,17 +60,19 @@ Monetary donations using the above button will go directly to Ship 84 located in
     
     <item>
       <title>Forms &amp; Information</title>
-      <link>/forms/</link>
+      <link>https://www.ship84.com/forms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/forms/</guid>
+      <guid>https://www.ship84.com/forms/</guid>
       <description>Ship 84 Forms
-2019-2020 Calendar
+2020-2021 Calendar
 Permission waiver
 Ship 84 Brochure
 Sample Cruise (Block Island 2019)
 Tutorials / Guides
+Sea Scout Handbook
 Parts of a Sailboat
+Knot Tying Game
 US Coast Guard Navigation Rules (External Sites)
 Inland Navigatino Rules
 General Information</description>
@@ -93,19 +80,19 @@ General Information</description>
     
     <item>
       <title>Thank You for your Donation</title>
-      <link>/donation/thanks/</link>
+      <link>https://www.ship84.com/donation/thanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/donation/thanks/</guid>
+      <guid>https://www.ship84.com/donation/thanks/</guid>
       <description>Your donation was successful. We grately appreciate your donation. Your donation to Ship 84 may be tax deductible.</description>
     </item>
     
     <item>
       <title>Vessels</title>
-      <link>/resolution/</link>
+      <link>https://www.ship84.com/resolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resolution/</guid>
+      <guid>https://www.ship84.com/resolution/</guid>
       <description>Ship 84 has three vessels. Our flagship is a 40-foot sailboat called The Resolution. We also have a 3o-foot called The Kolga. Finally, we have a small fishing boat called The Mako.
 The Resolution is a Hinckley Bermuda 40 yawl sailboat. The Resolution will not be in the water for the 2020 season while we perform restoration work such as sealing the teak wood, painting the deck, and replacing the head.</description>
     </item>
