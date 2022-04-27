@@ -8,7 +8,7 @@ Ship 84 Forms
 
 [2020-2021 Calendar](https://www.ship84.com/SHIP_84_2020-2021_Calendar_v2.pdf)
 
-[Permission waiver](https://www.ship84.com/Ship_84_Activity_Permission_Form_2020.pdf)
+[Permission waiver](https://www.ship84.com/Ship_84_Activity_Permission_Form_2022.pdf)
 
 [Ship 84 Brochure](https://www.ship84.com/Ship_84_flyer_v6.pdf)
 

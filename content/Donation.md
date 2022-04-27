@@ -1,5 +1,5 @@
 +++
-title = "Donations"
+title = "Payments / Donations"
 +++
 
 *Ship 84* is a co-ed, *Sea Scouts BSA* ship located in Southport CT. We have been in operation since 1932.  We grately appreciate any monetary or in-kind donation you are willing to provide to support our efforts.
@@ -9,9 +9,9 @@ title = "Donations"
 * Item 1
 * Item 2
 
+Payments and / or monetary donations to Ship 84 may be made via Venmo.
 
-
-[![](https://www.ship84.com/img/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VVLF2KJRFHDSA)
+[![](https://www.ship84.com/Venmo_profile.eml)
 
 For donating items, please us the [Contact](https://www.ship84.com/contact) page to email the Skipper of Ship 84.
 
