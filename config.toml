@@ -45,9 +45,9 @@ paginate = 1
     weight = 6
     
 [[menu.main]]
-    name = "Donation"
-    identifier = "donation"
-    url  = "/Donation"
+    name = "Payments / Donations"
+    identifier = "payments"
+    url  = "/Payments"
     weight = 7
 
 [[menu.main]]
