@@ -2,7 +2,7 @@
 title = "Payments / Donations"
 +++
 
-**Payments and / or monetary donations to Ship 84 may be made via [this Venmo link](https://account.venmo.com/u/Erol-Eyikan).**
+**Payments and / or monetary donations to Ship 84 may be made via [this Venmo link](https://account.venmo.com/u/Erol-Eyikan) or by using the QR code below.**
 
 ![QR code](https://www.ship84.com/bg1.png)
 
