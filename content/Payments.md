@@ -9,6 +9,8 @@ title = "Payments / Donations"
 *Ship 84* is a co-ed, *Sea Scouts BSA* ship located in Southport CT. We have been in operation since 1932.  We grately appreciate any monetary or in-kind donation you are willing to provide to support our efforts.
 
 *Wishlist*
+
+|-----------|---------|---------------|
 | Category	| Project	| Estimated Cost|
 |-----------|---------|---------------|
 | Safety & Sea worthiness	| Change lifelines | 1500  | 
