@@ -10,7 +10,7 @@ Ship 84 Forms
 
 [Permission waiver](https://www.ship84.com/Ship_84_Activity_Permission_Form_2022.pdf)
 
-[Ship 84 Brochure](https://www.ship84.com/Ship_84_flyer_v6.pdf)
+[Ship 84 Brochure](https://www.ship84.com/Ship 84 flyer two-page v6.pdf)
 
 [Sample Cruise (Block Island 2019)](https://www.ship84.com/2019_Block_Island_Boarding_Manual.docx)
 

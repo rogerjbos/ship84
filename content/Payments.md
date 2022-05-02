@@ -9,9 +9,16 @@ title = "Payments / Donations"
 *Ship 84* is a co-ed, *Sea Scouts BSA* ship located in Southport CT. We have been in operation since 1932.  We grately appreciate any monetary or in-kind donation you are willing to provide to support our efforts.
 
 *Wishlist*
-
-* Item 1
-* Item 2
+| Category	| Project	| Estimated Cost|
+|-----------|---------|---------------|
+| Safety & Sea worthiness	| Change lifelines | 1500  | 
+| Safety & Sea worthiness	| Install a new propane cooking system up-to current safety standards | 2500 | 
+| Safety & Sea worthiness	| Replace spreaders | 100 | 
+| Safety & Sea worthiness	| Install a secondary bilge pump | 200 | 
+| Safety & Sea worthiness	| Install manual bilge pump | 200 | 
+| Safety & Sea worthiness	| Replace mast head lights | 500 | 
+| Operational continuity	| Replace running rigging & Topping lift line | 100 | 
+| Safety & Sea worthiness	| Install anchor chain | 200 | 
 
 For donating items, please us the [Contact](https://www.ship84.com/contact) page to email the Skipper of Ship 84.
 
