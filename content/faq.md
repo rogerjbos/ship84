@@ -27,7 +27,7 @@ Yes, _Scouts BSA_, _Venturing_, and _Sea Scouts BSA_ are all part of *Boy Scouts
 
 We meet on *Sunday* afternoons from *4:00 PM to 5:30 PM* during non-summer months.
 
-## 6. When are the day says?
+## 6. When are the day sails?
 
 Day sails take place on *Saturdays* or *Sundays* during the summer months.
 
